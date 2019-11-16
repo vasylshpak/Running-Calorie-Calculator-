@@ -1,2 +1,2 @@
 
-## with this app you can calculate your burnd calories
+## with this app you can calculate your burned calories
